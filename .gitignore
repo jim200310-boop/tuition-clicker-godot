@@ -1,0 +1,6 @@
+.godot/
+.import/
+*.translation
+*.tmp
+work/
+outputs/
